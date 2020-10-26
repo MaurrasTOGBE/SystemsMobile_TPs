@@ -1,2 +1,2 @@
-include ':app'
+include ':TP1'
 rootProject.name='DI52020_TP1'
