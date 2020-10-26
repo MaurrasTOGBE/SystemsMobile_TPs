@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name='DI52020_TP1'
